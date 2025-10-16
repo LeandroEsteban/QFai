@@ -106,7 +106,7 @@ After defining the Persona Canvas and the functionalities of the project, we com
 
 We create the navigation flow to understand the logical flow of the system through the functionalities that the system will respond to for each user interaction.
 
-![Flowchart](https://github.com/user-attachments/assets/577cfc0d-8318-4d91-98a0-915505b40bf6)
+![Flowchart](https://github.com/user-attachments/assets/4fecc6bf-719c-47c0-bf22-90da4b5004ec)
 
 ## 2.4 Skeleton Plane
 
