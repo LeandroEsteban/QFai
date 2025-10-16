@@ -90,7 +90,7 @@ The analysis was organized based on the **4-action model (Increase, Include, Red
 
 In this way, the benchmark allowed us to consolidate a clear vision of how to differentiate **QFai** while taking advantage of the best of existing applications.  
 
-<img width="1920" height="1080" alt="Benchmark" src="https://github.com/user-attachments/assets/aff71758-e028-456a-9921-753ad49a5796" />
+<img width="1920" height="1080" alt="Benchmark2" src="https://github.com/user-attachments/assets/274fc573-7fca-49f2-86dd-4ffb5a86c18f" />
 
 ## 2.2 Scope Plane
 
