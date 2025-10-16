@@ -56,7 +56,7 @@ These tools allow us to:
 
 In this way, we ensure that **QFai** not only solves a problem, but also creates a **meaningful and valuable experience** for users.  
 
-<img width="1347" height="774" alt="ValueCanva" src="https://github.com/user-attachments/assets/5e3110c8-333b-4243-8898-7b018c9241d8" />
+<img width="1768" height="1034" alt="Value Proposition Canvas UXD en ingles" src="https://github.com/user-attachments/assets/149af47e-37e4-4533-9b10-dfc11879894c" />
 
 ### 2.1.2 Persona Canva
 This tool allowed us to build a detailed profile of the typical **QFai** user, taking into account aspects such as:  
