@@ -68,11 +68,11 @@ This tool allowed us to build a detailed profile of the typical **QFai** user, t
 
 The **Persona Canvas** helped us clearly represent the characteristics, behaviors, and expectations of our users, making it easier to design an experience that directly responds to their needs.  
 
-<img width="1920" height="1080" alt="Persona1" src="https://github.com/user-attachments/assets/0b9eb54b-d38a-4cdf-b557-88a560913800" />
+<img width="1920" height="1080" alt="Persona1" src="https://github.com/user-attachments/assets/9ad82b63-a2b7-462a-b339-3ee6f305ea00" />
 
-<img width="1920" height="1080" alt="Persona2" src="https://github.com/user-attachments/assets/76ec9abe-a0b6-40a6-98e0-2d236d3217fd" />
+<img width="1920" height="1080" alt="Persona2" src="https://github.com/user-attachments/assets/463bfa4d-0b67-4cd9-8345-bf8ac90a14fa" />
 
-<img width="1920" height="1080" alt="Persona3" src="https://github.com/user-attachments/assets/41e49f0c-3c9f-452f-a19f-cba943ac3910" />
+<img width="1920" height="1080" alt="Persona3" src="https://github.com/user-attachments/assets/0197fa49-5f15-4380-a208-e08d30f1e7b1" />
 
 ### 2.1.3 Benchmark
 
