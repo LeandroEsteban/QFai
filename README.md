@@ -3,7 +3,7 @@
 UXD Project 2025/2
 
 This repository contains the entire User Experience Design (UXD) process for the “QFai” application.
-This app is focused on creating and joining panoramas.
+This app is focused on creating and joining "panoramas" (plans or outings).
 
 Team
 - Francisco Barrozo (f.barrozo02@ufromail.cl)
