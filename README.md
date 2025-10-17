@@ -37,6 +37,8 @@ Traditional methods of meeting new people often require a lot of effort, plannin
 
 While digital platforms have emerged to connect individuals, most focus too much on dating (such as Tinder or Bumble) or are too formal and structured around professional or large-scale events (such as Meetup or Eventbrite). This leaves a gap for those who simply want to join casual activities—whether it's going to a concert, playing sports, or going out for coffee—based on shared interests.
 
+Moreover, popular social media platforms like Instagram or Facebook can generate uncertainty when meeting new people, since there is no identity verification process when creating an account. This lack of validation allows cases of individuals impersonating others, which can lead to distrust or fear when arranging to meet strangers in person.
+
 This problem is particularly evident among young adults living in a new city, people who travel, or those who simply want to expand their social circle without the pressure of dating or the complexity of planning formal events.  
 
 ## 1.2 Our solution
