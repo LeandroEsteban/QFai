@@ -46,10 +46,12 @@ Our project, called **QFai**, was created in response to this need, offering a p
 Unlike traditional event apps, QFai focuses on **spontaneity, simplicity, and social interaction**.  
 
 Within the app, users will be able to:  
-- ✅ Explore and join plans created by other people.  
-- ✅ Create their own plans quickly and easily.  
-- ✅ Use a chat feature integrated into each panorama to coordinate with participants.
-- ✅ Receive personalized recommendations based on their interests and availability.
+-  Explore and join plans created by other people.  
+-  Create their own plans quickly and easily.  
+-  Use a chat feature integrated into each panorama to coordinate with participants.
+-  Receive personalized recommendations based on their interests, location and availability.
+
+To ensure user safety and trust, QFai incorporates an identity verification system that confirms the authenticity of each account. Additionally, all users must be 18 years or older, providing a secure environment for interaction and preventing impersonation or misuse.
 
 With this focus on **ease of use** and **social engagement**, QFai becomes more than just an event planner: it transforms into a **community hub for sharing experiences**.  
 
