@@ -12,6 +12,25 @@ Team
 - Antonia Paredes (a.paredes03@ufromail.cl)
 - Joaquín Silva (j.silva23@ufromail.cl)
 
+# Index
+
+1. [Introduction](#1-introduction)
+   - 1.1 [The problem](#11-the-problem)
+   - 1.2 [Our solution](#12-our-solution)
+   - 1.3 [Team and roles](#13-team-and-roles)
+
+2. [UXD design process](#2-uxd-design-process)
+   - 2.1 [Strategy Plane](#21-strategy-plane)
+     - 2.1.1 [Value Canvas](#211-value-canva)
+     - 2.1.2 [Persona Canvas](#212-persona-canva)
+     - 2.1.3 [Benchmark](#213-benchmark)
+   - 2.2 [Scope Plane](#22-scope-plane)
+     - 2.2.1 [Customer Journey Map](#221-customer-journey-map)
+   - 2.3 [Structure Plane](#23-structure-plane)
+     - 2.3.1 [Navigation Flow](#231-navigation-flow)
+   - 2.4 [Skeleton Plane](#24-skeleton-plane)
+   - 2.5 [Surface Plane](#25-surface-plane)
+
 # 1. Introduction
 ## 1.1 The problem
 In today's society, social connection is highly valued, yet many people struggle to find companionship for spontaneous activities or events.  
@@ -102,7 +121,7 @@ After defining the Persona Canvas and the functionalities of the project, we com
 
 ## 2.3 Structure Plane
 
-### 2.3.1 Navegation Flow
+### 2.3.1 Navigation Flow
 
 We create the navigation flow to understand the logical flow of the system through the functionalities that the system will respond to for each user interaction.
 
@@ -110,7 +129,7 @@ We create the navigation flow to understand the logical flow of the system throu
 
 ## 2.4 Skeleton Plane
 
-Based on the functionalities defined in the Navegation FLow, we created views for the application using wireframes.
+Based on the functionalities defined in the Navigation Flow, we created views for the application using wireframes.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef1dede0-3251-4ff1-8b24-194ffcf60809" alt="Inicio sesión" width="250"/>
