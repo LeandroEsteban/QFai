@@ -18,7 +18,6 @@ Team
    - 1.1 [The problem](#11-the-problem)
    - 1.2 [Our solution](#12-our-solution)
    - 1.3 [Team and roles](#13-team-and-roles)
-
 2. [UXD design process](#2-uxd-design-process)
    - 2.1 [Strategy Plane](#21-strategy-plane)
      - 2.1.1 [Value Canvas](#211-value-canva)
@@ -110,6 +109,8 @@ The analysis was organized based on the **4-action model (Increase, Include, Red
 In this way, the benchmark allowed us to consolidate a clear vision of how to differentiate **QFai** while taking advantage of the best of existing applications.  
 
 <img width="1920" height="1080" alt="Benchmark2" src="https://github.com/user-attachments/assets/274fc573-7fca-49f2-86dd-4ffb5a86c18f" />
+
+For more detailed information about the benchmarking analysis, please visit the [benchmark document](docs/benchmark.pdf) in this repository.
 
 ## 2.2 Scope Plane
 
