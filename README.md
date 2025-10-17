@@ -72,9 +72,9 @@ How we align user needs with our solution
 In our context, to understand what we want to achieve with this application and what users want and expect from our app, we used the Value Proposition Canvas and Persona Canvas tools.
 
 These tools allow us to:  
-- 📌 Identify users' needs, motivations, and frustrations.  
-- 📌 Clarify the value proposition that sets QFai apart from other applications.  
-- 📌 Align the application's design with the real expectations of the people who will use it.  
+-  Identify users' needs, motivations, and frustrations.  
+-  Clarify the value proposition that sets QFai apart from other applications.  
+-  Align the application's design with the real expectations of the people who will use it.  
 
 In this way, we ensure that **QFai** not only solves a problem, but also creates a **meaningful and valuable experience** for users.  
 
@@ -83,10 +83,10 @@ In this way, we ensure that **QFai** not only solves a problem, but also creates
 ### 2.1.2 Persona Canva
 This tool allowed us to build a detailed profile of the typical **QFai** user, taking into account aspects such as:  
 
-- 👤 **Demographic data**: age, occupation, life situation.
-- 🎯 **Goals**: what they hope to achieve by using the app (e.g., finding companionship, socializing, expanding their circle).
-- 😟 **Frustrations**: problems they currently face when trying to participate in social activities.  
-- 💡 **Needs and motivations**: what they expect from a solution like QFai.
+-  **Demographic data**: age, occupation, life situation.
+-  **Goals**: what they hope to achieve by using the app (e.g., finding companionship, socializing, expanding their circle).
+-  **Frustrations**: problems they currently face when trying to participate in social activities.  
+-  **Needs and motivations**: what they expect from a solution like QFai.
 
 The **Persona Canvas** helped us clearly represent the characteristics, behaviors, and expectations of our users, making it easier to design an experience that directly responds to their needs.  
 
@@ -105,10 +105,10 @@ In our case, we selected **Tinder, Meetup, and Eventbrite**, as they represent d
 
 The analysis was organized based on the **4-action model (Increase, Include, Reduce, Remove)**, which allowed us to:
 
-- 🔼 **Increase** → detect which elements should be enhanced in our application.
-- ➕ **Include** → identify which new features or practices we should add.  
-- 🔽 **Reduce** → recognize which aspects should be simplified to improve the experience.
-- ❌ **Remove** → point out which elements do not add value in the context of QFai.
+-  **Increase** → detect which elements should be enhanced in our application.
+-  **Include** → identify which new features or practices we should add.  
+-  **Reduce** → recognize which aspects should be simplified to improve the experience.
+-  **Remove** → point out which elements do not add value in the context of QFai.
 
 In this way, the benchmark allowed us to consolidate a clear vision of how to differentiate **QFai** while taking advantage of the best of existing applications.  
 
