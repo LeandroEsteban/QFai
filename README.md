@@ -57,10 +57,10 @@ With this focus on **ease of use** and **social engagement**, QFai becomes more 
 
 ## 1.3 Team and roles
 - Francisco Barrozo --> Project Manager
-- Lian Canio --> Supporter
-- Leandro Matamoros --> Analyst
-- Antonia Paredes --> Designer
-- Joaquín Silva --> Presenter
+- Lian Canio --> Support / QA (Quality Assurance) Specialist
+- Leandro Matamoros --> UX Researcher
+- Antonia Paredes --> UI/Visual Designer / Speaker
+- Joaquín Silva --> UX Designe / Speaker
 
 
 # 2. UXD design process
