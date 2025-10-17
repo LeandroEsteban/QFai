@@ -139,7 +139,7 @@ Based on the functionalities defined in the Navigation Flow, we created views fo
 </p>
 
 
-To see all the wireframes, due to the high number of images, go directly to the Wireframes Folder.
+To see all the wireframes, go directly to the [wireframes document](docs/wireframes.pdf).
 
 ## 2.5 Surface Plane
 
