@@ -146,6 +146,18 @@ Based on the functionalities defined in the Navigation Flow, we created views fo
 To see all the wireframes, go directly to the [wireframes document](docs/wireframes.pdf).
 
 ## 2.5 Surface Plane
+These are some of our most important screens. To see them all, go directly to [Hi-fi document](docs/hi-fi.pdf).
+
+<p align="center">
+   <img width="402" height="874" alt="Login" src="https://github.com/user-attachments/assets/2af2e995-263c-43c8-aebf-df5eee010512"/>
+   <img width="402" height="874" alt="Home" src="https://github.com/user-attachments/assets/d29d5f9d-da13-4672-8236-e2a60a570332"/>
+   <img width="402" height="874" alt="Búsqueda" src="https://github.com/user-attachments/assets/840c53c9-0dae-4825-b3bb-be1432ffd450"/>
+   <img width="402" height="874" alt="pendientes" src="https://github.com/user-attachments/assets/9690f97d-5beb-428b-8701-c30c82f9176d"/>
+</p>
+
+For an explanation of each of these, see this [document](docs/explanation.pdf).
+
+
 
 
 
