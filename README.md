@@ -146,6 +146,8 @@ Based on the functionalities defined in the Navigation Flow, we created views fo
 To see all the wireframes, go directly to the [wireframes document](docs/wireframes.pdf).
 
 ## 2.5 Surface Plane
+
+### 2.5.1 Hi-fi
 These are some of our most important screens. To see them all, go directly to [Hi-fi document](docs/hi-fi.pdf).
 
 <p align="center">
@@ -159,10 +161,54 @@ For an explanation of each of these, see this [document](docs/explanation.pdf).
 
 [Link to the project in Figma](https://www.figma.com/design/ERMAKrV7hzZqBRl1n0Eyrz/Proyecto?node-id=0-1&t=VxwuYWX0KA88zFrp-1)
 
+### 2.5.2 Interface Evolution
 
+Initially, we envisioned the home screen featuring the logo and a section with recommended activities. Eventually, we decided to move these recommended activities into a card format to also include the upcoming activities the user is registered for, providing a quick overview.
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="350" alt="Inicio1" src="https://github.com/user-attachments/assets/428d3644-f645-45dc-a0f2-0506ac9a8ffa" />
+    </td>
+    <td align="center" style="font-size: 48px;">
+      →
+    </td>
+    <td align="center">
+      <img width="350" alt="Inicio2" src="https://github.com/user-attachments/assets/241fa280-3c63-458b-a58a-d18b52c77c0a" />
+    </td>
+  </tr>
+</table>
 
+For the map, we initially planned to include a small version for searching activities in the area, but later decided it would be better to create a dedicated screen showing a larger map, with filtering options to help users find activities more quickly.
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="350" alt="Mapa1" src="https://github.com/user-attachments/assets/d8ac009b-2270-48cf-9fd8-eec822419b66" />
+    </td>
+    <td align="center" style="font-size: 48px;">
+      →
+    </td>
+    <td align="center">
+      <img width="350" alt="Mapa2" src="https://github.com/user-attachments/assets/c3a73004-c2d2-467a-b7f9-3ab8c0352588" />
+    </td>
+  </tr>
+</table>
 
+In the activity details interface, we decided to move the activity name so that it now appears directly below the activity photo. We also added the organizer’s name and a new share button to make it easier for users to share the activity with others.
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="350" alt="Detalles1" src="https://github.com/user-attachments/assets/42b3a355-c22e-4b4b-a2d8-38dc0134a0f9" />
+    </td>
+    <td align="center" style="font-size: 48px;">
+      →
+    </td>
+    <td align="center">
+      <img width="350" alt="Detalles2" src="https://github.com/user-attachments/assets/beaada9d-ef65-4e60-9197-472334845fb8" />
+    </td>
+  </tr>
+</table>
 
 
