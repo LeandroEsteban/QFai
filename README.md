@@ -157,6 +157,7 @@ These are some of our most important screens. To see them all, go directly to [H
 
 For an explanation of each of these, see this [document](docs/explanation.pdf).
 
+[Link to the project in Figma](https://www.figma.com/design/ERMAKrV7hzZqBRl1n0Eyrz/Proyecto?node-id=0-1&t=VxwuYWX0KA88zFrp-1)
 
 
 
