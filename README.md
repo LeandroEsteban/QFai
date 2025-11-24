@@ -153,13 +153,15 @@ To see all the wireframes, go directly to the [wireframes document](docs/wirefra
 ## 2.5 Surface Plane
 
 ### 2.5.1 Hi-fi
+After multiple iterations, improvements guided by heuristic evaluation and feedback, the final high-fidelity interfaces for QFai are presented below.
+
 These are some of our most important screens. To see them all, go directly to [Hi-fi document](docs/hi-fi.pdf).
 
 <p align="center">
-   <img width="402" height="874" alt="Login" src="https://github.com/user-attachments/assets/2af2e995-263c-43c8-aebf-df5eee010512"/>
-   <img width="402" height="874" alt="Home" src="https://github.com/user-attachments/assets/d29d5f9d-da13-4672-8236-e2a60a570332"/>
-   <img width="402" height="874" alt="Búsqueda" src="https://github.com/user-attachments/assets/840c53c9-0dae-4825-b3bb-be1432ffd450"/>
-   <img width="402" height="874" alt="pendientes" src="https://github.com/user-attachments/assets/9690f97d-5beb-428b-8701-c30c82f9176d"/>
+   <img width="402" height="874" alt="1" src="https://github.com/user-attachments/assets/663e497a-e912-495e-8576-0d3f104cee50"/>
+   <img width="402" height="874" alt="2" src="https://github.com/user-attachments/assets/6ce5a44a-6b2b-442e-bc2b-86c9ca975bd1" />
+   <img width="402" height="874" alt="3" src="https://github.com/user-attachments/assets/3e098c2e-880a-4bc5-8b84-51a4717506fd" />
+   <img width="402" height="874" alt="pendientes" src="https://github.com/user-attachments/assets/38ed4aca-b4d5-4ad1-9d21-fd532bc91b8c" />
 </p>
 
 For an explanation of each of these, see this [document](docs/explanation.pdf).
@@ -179,7 +181,7 @@ Initially, we envisioned the home screen featuring the logo and a section with r
       →
     </td>
     <td align="center">
-      <img width="350" alt="Inicio2" src="https://github.com/user-attachments/assets/241fa280-3c63-458b-a58a-d18b52c77c0a" />
+      <img width="402" height="874" alt="Home1" src="https://github.com/user-attachments/assets/fb5cba2d-91c0-4d0c-ac43-51451e5ecd79" />
     </td>
   </tr>
 </table>
@@ -195,7 +197,7 @@ For the map, we initially planned to include a small version for searching activ
       →
     </td>
     <td align="center">
-      <img width="350" alt="Mapa2" src="https://github.com/user-attachments/assets/c3a73004-c2d2-467a-b7f9-3ab8c0352588" />
+       <img width="402" height="874" alt="Mapa1" src="https://github.com/user-attachments/assets/88041e1c-6e90-4023-bd0b-2dd9b97b053f" />
     </td>
   </tr>
 </table>
@@ -211,7 +213,7 @@ In the activity details interface, we decided to move the activity name so that 
       →
     </td>
     <td align="center">
-      <img width="350" alt="Detalles2" src="https://github.com/user-attachments/assets/beaada9d-ef65-4e60-9197-472334845fb8" />
+       <img width="402" height="874" alt="UNIRSE" src="https://github.com/user-attachments/assets/865d76a7-3430-49fe-a21f-6fe4b7d8fc09" />
     </td>
   </tr>
 </table>
@@ -225,7 +227,6 @@ Considering the heuristic evaluation made by another team, the QFai team used th
 | Insufficient error management and communication | Implement clear, visible, and specific error messages when incorrect data is entered into any form. |
 
 <img width="403" height="727" alt="registrarse 4" src="https://github.com/user-attachments/assets/ed465ce8-61a4-45ac-a62c-689c6b3355eb" />
-<img width="402" height="874" alt="login" src="https://github.com/user-attachments/assets/702dfa5a-715c-42ea-90ba-81f1bbfb745d" />
 
 | Problem | Solution |
 |--------|----------|
@@ -263,6 +264,12 @@ During the development of QFai, the following accessibility aspects were conside
 
 <img width="402" height="874" alt="Accesibilidad" src="https://github.com/user-attachments/assets/b3d857cd-2340-4c0c-9dec-9d992f12a00f" />
 <img width="402" height="874" alt="Accesibilidad 1" src="https://github.com/user-attachments/assets/3af379cf-e290-4127-a840-ebd2114f5d52" />
+
+# 5. Conclusion
+QFai represents our complete UXD process, from understanding user needs to the final high-fidelity interfaces.
+Through research, iterative design, and continuous evaluation, we created an application aimed at making social connection easier, safer, and more spontaneous.
+
+**Thank you for reading our work!**
 
 
 
