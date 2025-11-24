@@ -29,6 +29,11 @@ Team
      - 2.3.1 [Navigation Flow](#231-navigation-flow)
    - 2.4 [Skeleton Plane](#24-skeleton-plane)
    - 2.5 [Surface Plane](#25-surface-plane)
+     - 2.5.1 [Hi-fi](#251-hi-fi)
+     - 2.5.2 [Interface Evolution](#252-interface-evolution)
+3. [Results of the Heuristic Evaluation](#3-results-of-the-heuristic-evaluation)
+4. [Accessibility](#4-accessibility)
+
 
 # 1. Introduction
 ## 1.1 The problem
