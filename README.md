@@ -211,4 +211,61 @@ In the activity details interface, we decided to move the activity name so that 
   </tr>
 </table>
 
+# 3. Results of the Heuristic Evaluation
+
+Considering the heuristic evaluation made by another team, the QFai team used the problems found by this external team to strengthen the application.
+
+| Problem | Solution |
+|--------|----------|
+| Insufficient error management and communication | Implement clear, visible, and specific error messages when incorrect data is entered into any form. |
+
+<img width="403" height="727" alt="registrarse 4" src="https://github.com/user-attachments/assets/ed465ce8-61a4-45ac-a62c-689c6b3355eb" />
+<img width="402" height="874" alt="login" src="https://github.com/user-attachments/assets/702dfa5a-715c-42ea-90ba-81f1bbfb745d" />
+
+| Problem | Solution |
+|--------|----------|
+| Lack of status feedback and confirmations | Include status and progress indicators for all important actions (registration, editing, validation, joining). For example, progress bars, visual notifications, and confirmation messages to inform the user of the success or failure of each step. |
+
+<img width="402" height="874" alt="recuperar contraseña" src="https://github.com/user-attachments/assets/51afbf53-31a9-471e-bf51-9fe6f581a301" />
+<img width="402" height="874" alt="recuperar contraseña 2" src="https://github.com/user-attachments/assets/f0f64b8a-2386-4264-883c-e04988afb5b2" />
+
+| Problem | Solution |
+|--------|----------|
+| Low accessibility and visual contrast | Improve the contrast and font size of key elements such as the navigation bar, buttons, and labels. |
+
+<img width="402" height="874" alt="Detalles" src="https://github.com/user-attachments/assets/98857199-5005-4add-9ce4-ef367bb1754a" />
+
+
+| Problem | Solution |
+|--------|----------|
+| Ambiguity and inconsistency in icons and labels | Add explanatory labels to all icons used in navigation, map, and chats. Include contextual information or tooltips about the function of each icon and standardize symbols for activities and statuses. |
+
+<img width="438" height="926" alt="Screenshot_20251124_012934" src="https://github.com/user-attachments/assets/aed5101f-ec8e-4073-9993-c29aaa8c5509" />
+
+
+# 4. Accessibility
+During the development of QFai, the following accessibility aspects were considered, based on practical workshops and user experience (UX) best practices:
+
+- **Color contrast and legibility:** High-contrast colors and an accessible palette were used for people with low vision or color blindness.
+
+- **Size and clarity of interactive elements:** Buttons and touch areas are large and easily identifiable, making them easy to use for people with reduced mobility or motor difficulties.
+
+- **Feedback and confirmations:** The application provides clear visual feedback (colors, messages, statuses) for important actions, including confirmation messages and alerts to prevent errors.
+
+- **Clear and simple language:** Simple, direct language without technical jargon was prioritized, facilitating understanding for older adults and people with lower digital literacy.
+
+- **Accessibility options:** A section in the options menu was included to provide different accessibility options for the user, covering motor, visual, and hearing disabilities, among others.
+
+<img width="402" height="874" alt="Accesibilidad" src="https://github.com/user-attachments/assets/b3d857cd-2340-4c0c-9dec-9d992f12a00f" />
+<img width="402" height="874" alt="Accesibilidad 1" src="https://github.com/user-attachments/assets/3af379cf-e290-4127-a840-ebd2114f5d52" />
+
+
+
+
+
+
+
+
+
+
 
